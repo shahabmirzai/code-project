@@ -1,0 +1,19 @@
+body {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(250, 250, 250);
+}
+.body-main {
+  width: 90%;
+  max-width: 800px;
+  text-align: justify;
+  line-height: 1.7;
+  margin-top: 0;
+}
+.menu-bar {
+    margin-bottom: 20px;
+}
+.menu-bar-list {
+  margin-right: 3px;
+}
+
