@@ -20,7 +20,7 @@ body {
 
 @media (min-width: 1100px) {
   .body-main {
-      font-size: 20px; /* Larger font size for desktop */
+      font-size: 20px; 
   }
 }
 
