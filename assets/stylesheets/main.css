@@ -18,12 +18,12 @@ body {
 }
 @media (max-width: 1300px) {
   .body-main {
-      font-size: 25px;
+      font-size: 40px;
   }
 }
 
 @media (max-width: 600px) {
   .body-main {
-      font-size: 30px;
+      font-size: 40px;
   }
 }
