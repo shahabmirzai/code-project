@@ -24,7 +24,7 @@ body {
   }
 }
 
-@media (min-width: 768px) and (max-width: 1099px) {
+@media (min-width: 768px) and (max-width: 1200px) {
   .body-main {
       font-size: 35px;
   }
