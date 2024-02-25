@@ -16,15 +16,14 @@ body {
 .menu-bar-list {
   margin-right: 3px;
 }
-@media (max-width: 768px) {
+@media (max-width: 1300px) {
   .body-main {
       font-size: 25px;
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   .body-main {
-      font-size: 25px;
+      font-size: 30px;
   }
 }
-
