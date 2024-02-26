@@ -29,3 +29,13 @@ body {
       font-size: 40px;
   }
 }
+.fun-button {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+.fun-button:hover {
+  background-color: white;
+}
