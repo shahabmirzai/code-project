@@ -17,18 +17,6 @@ body {
 .menu-bar-list {
   margin-right: 3px;
 }
-
-@media (min-width: 1100px) {
-  .body-main {
-      font-size: 20px; 
-  }
-}
-
-@media (min-width: 768px) and (max-width: 1200px) {
-  .body-main {
-      font-size: 40px;
-  }
-}
 .fun-button {
   background-color: red;
   color: white;
@@ -38,4 +26,14 @@ body {
 }
 .fun-button:hover {
   background-color: white;
+}
+@media (min-width: 425px) {
+  .body-main {
+      font-size: 20px; 
+  }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .body-main {
+      font-size: 40px;
+  }
 }
